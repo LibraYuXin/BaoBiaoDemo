@@ -1,5 +1,5 @@
 # BaoBiaoDemo效果如下图：
-![image](https://github.com/LibraYuXin/BaoBiaoDemo/master/baobiao.gif)
+![image](https://github.com/LibraYuXin/BaoBiaoDemo/blob/master/baobiao.gif)
 使用方法：
 - (void)viewDidLoad {
     
