@@ -51,6 +51,7 @@
         self.layout = [[BaoBiaoLayout alloc]init];
         self.myList.collectionViewLayout = self.layout;
     }
+    [self.layout reset];
     [self.layout setLockColumn:lockColumn];
     if (SCREENSIZE.width > 375) {
         [self.layout setItemHeight:50];
